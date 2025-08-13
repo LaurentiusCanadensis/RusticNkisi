@@ -1,12 +1,17 @@
 # Rustic Nkisi: A Decentralized Ritual Contract System
 
+![IMG_0953](https://github.com/user-attachments/assets/eeef33c7-cb3d-42e1-95f9-de6438023e42)
+
+
 <img width="1476" height="1893" alt="image" src="https://github.com/user-attachments/assets/0c297ffa-328e-4467-8fd4-42d66297534e" />
 
 <img width="1500" height="2249" alt="image" src="https://github.com/user-attachments/assets/78f1052a-fc94-4f0f-8cb0-d505ccc18b8b" />
 
-![IMG_0952](https://github.com/user-attachments/assets/beee1d84-ce01-4943-a269-37e6f69b64e8)
 
-![IMG_0953](https://github.com/user-attachments/assets/eeef33c7-cb3d-42e1-95f9-de6438023e42)
+<img width="482" height="900" alt="image" src="https://github.com/user-attachments/assets/3cd17651-278e-40df-900b-9b980bdb9f13" />
+
+
+
 
 
 ## Abstract
