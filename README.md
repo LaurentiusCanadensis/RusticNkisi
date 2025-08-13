@@ -1,5 +1,8 @@
 # Rustic Nkisi: A Decentralized Ritual Contract System
 
+<img width="1476" height="1893" alt="image" src="https://github.com/user-attachments/assets/0c297ffa-328e-4467-8fd4-42d66297534e" />
+
+
 ## Abstract
 
 For centuries in the Kongo region of Central Africa, **nkisi nkondi** power figures served as decentralized instruments of justice, contract enforcement, and social order. Each activation — a nail, spike, or blade driven into the figure — marked a public, irreversible record of an agreement, oath, or dispute resolution. The nkondi’s authority derived not from a central institution, but from its visibility, immutability, and the communal trust placed in it.
