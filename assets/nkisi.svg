@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="450" viewBox="0 0 100 150" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="wood" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0%" stop-color="#7b4a2e"/>
+            <stop offset="100%" stop-color="#5b371f"/>
+        </linearGradient>
+    </defs>
+
+    <!-- Body (torso + head + legs) -->
+    <g fill="url(#wood)" stroke="#3b2214" stroke-width="0.6">
+        <circle cx="50" cy="20" r="12"/> <!-- head -->
+        <rect x="32" y="32" width="36" height="50" rx="8"/> <!-- torso -->
+        <rect x="38" y="82" width="8" height="26" rx="2"/>  <!-- left leg -->
+        <rect x="54" y="82" width="8" height="26" rx="2"/>  <!-- right leg -->
+        <rect x="18" y="40" width="20" height="10" rx="3" transform="rotate(-15,28,45)"/> <!-- left arm -->
+        <rect x="62" y="40" width="20" height="10" rx="3" transform="rotate(15,72,45)"/>  <!-- right arm -->
+    </g>
+
+    <!-- “Mirror” on abdomen -->
+    <circle cx="50" cy="62" r="8" fill="#d7d7d7" stroke="#858585" stroke-width="0.8"/>
+    <circle cx="50" cy="62" r="3" fill="#ffffff" opacity="0.7"/>
+
+    <!-- Subtle base -->
+    <rect x="20" y="118" width="60" height="6" rx="2" fill="#3b2214" opacity="0.6"/>
+</svg>
