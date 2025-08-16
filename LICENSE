@@ -1,0 +1,37 @@
+Super Strong Copyleft Public License – Non-Commercial (SSCPL-NC) v1.0
+
+Preamble:
+This license ensures that the software and all its modifications remain free for everyone to study, use, and improve — but not for commercial exploitation. All changes must be shared rapidly, and network use counts as distribution.
+
+1. Grant of Rights
+You are granted the rights to use, study, modify, and redistribute this software solely for non-commercial purposes.
+
+2. Strong Copyleft
+Any modified version of this software, or any work that incorporates this software, must be licensed in full, under this exact license, to all recipients.
+
+3. Network Use Equals Distribution
+If you run this software (modified or unmodified) on a server or through any networked service for others to use, you must make the full corresponding source code — including all modifications — immediately available to those users without request.
+
+4. Mandatory Public Posting
+Within 24 hours of deploying any modified version of the software — whether privately, publicly, or for internal use — you must publish the complete source code in a publicly accessible repository.
+
+5. Upstream Sync Requirement
+You must send all modifications, bug fixes, and enhancements directly to the original licensor (or their designated repository) within 24 hours of publishing your changes.
+
+6. Patent Grant & Reciprocity
+If you own or control any patents that read on the software or your modifications, you grant a perpetual, worldwide, royalty-free patent license to all recipients. You also agree that if you assert any software-related patent claims against any user of this software, your rights under this license terminate immediately.
+
+7. Open Interoperability
+If your modifications create, use, or require any API, protocol, or data format to interoperate with the software, you must fully document and publish it under a license allowing free use and redistribution.
+
+8. No Commercial Use
+You may not use the software or any derivative work for commercial purposes. For the purposes of this license, “commercial purposes” include but are not limited to:
+- Selling the software or access to it.
+- Using the software to provide paid services.
+- Incorporating the software into a product that is sold or licensed for a fee.
+
+9. Termination
+If you violate this license, your rights terminate automatically. They may only be reinstated if the original licensor provides written approval.
+
+10. Disclaimer of Warranty
+The software is provided “AS IS,” without warranty of any kind.
